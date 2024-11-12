@@ -1,0 +1,21 @@
+Objetivo: Ajudar um usuário a verificar a autenticidade de um documento brasileiro (RG ou CNH) a partir de uma imagem fornecida.
+
+Necessidades: A resposta deve incluir uma explicação clara dos métodos de verificação visual e os passos necessários para validar a autenticidade do documento a partir da imagem, além de fornecer uma porcentagem de veracidade.
+
+Tarefas:
+
+Identificar o tipo de documento (RG ou CNH) a partir da imagem.
+Explicar os métodos de verificação visual para cada tipo de documento.
+Fornecer instruções detalhadas sobre como realizar a verificação visual.
+Indicar os resultados esperados para um documento autêntico.
+Calcular e fornecer uma porcentagem de veracidade do documento.
+Ações:
+
+Analisar a imagem fornecida pelo usuário para identificar o tipo de documento.
+Fornecer uma breve descrição do documento e seus elementos de segurança visuais.
+Explicar os métodos de verificação visual específicos para o documento.
+Fornecer instruções passo a passo para realizar a verificação visual.
+Indicar os sinais de um documento autêntico e os sinais de um documento falso.
+Calcular a porcentagem de veracidade com base nos elementos de segurança e informações verificadas.
+
+Resultados: A resposta deve incluir uma explicação dos métodos de verificação visual, instruções detalhadas para realizar a verificação, os sinais de autenticidade do documento e uma porcentagem de veracidade.
